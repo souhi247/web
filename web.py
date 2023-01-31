@@ -21,7 +21,6 @@ for index, task in enumerate(tasks):
 		wt(tasks)
 		del sl.session_state[task]
 		sl.experimental_rerun()
-		
 
 sl.text_input(label="", placeholder="Enter a task",
               on_change=add_task, key="new task")
