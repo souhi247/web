@@ -1,3 +1,0 @@
-C:/Users/codsp/PycharmProjects/web/cmake-build-debug/CMakeFiles/web.dir
-C:/Users/codsp/PycharmProjects/web/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/codsp/PycharmProjects/web/cmake-build-debug/CMakeFiles/rebuild_cache.dir
